@@ -11,6 +11,7 @@
 		38F96AF027130CE700B0A009 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38F96AEF27130CE700B0A009 /* ContentView.swift */; };
 		38F96AF227130CEA00B0A009 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38F96AF127130CEA00B0A009 /* Assets.xcassets */; };
 		38F96AF527130CEA00B0A009 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38F96AF427130CEA00B0A009 /* Preview Assets.xcassets */; };
+		38F96AFC27130D2100B0A009 /* FloatingMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38F96AFB27130D2100B0A009 /* FloatingMenu.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		38F96AEF27130CE700B0A009 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		38F96AF127130CEA00B0A009 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		38F96AF427130CEA00B0A009 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		38F96AFB27130D2100B0A009 /* FloatingMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingMenu.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				38F96AED27130CE700B0A009 /* FloatingButtonApp.swift */,
 				38F96AEF27130CE700B0A009 /* ContentView.swift */,
+				38F96AFB27130D2100B0A009 /* FloatingMenu.swift */,
 				38F96AF127130CEA00B0A009 /* Assets.xcassets */,
 				38F96AF327130CEA00B0A009 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				38F96AF027130CE700B0A009 /* ContentView.swift in Sources */,
+				38F96AFC27130D2100B0A009 /* FloatingMenu.swift in Sources */,
 				38F96AEE27130CE700B0A009 /* FloatingButtonApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
